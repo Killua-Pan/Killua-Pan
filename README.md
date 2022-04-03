@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Killua-Pan
 - 👀 I’m interested in watching Japanese Anime, play Hearthstone Overwatch
-- 🌱 I’m currently learning Data analysis and AI
+- 🌱 I’m currently learning Data analysis and AI In Queen Mary University of London.
+- 👨‍🎓 I used to study in UCL for MSc Financial Mathematics and got distinction for this master degree.
 
 - 🇬🇧留学生一枚
 - 🇬🇧UCL金融数学系研究生 目前🇬🇧Queen Mary就读数据分析人工智能二硕
